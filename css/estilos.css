@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+body nav {
+  background-color: #d4af37;
+}
+body h1,
+body h2,
+body h5 {
+  color: #d4af37;
+}
+.btn-warning {
+  background-color: #d4af37;
+  border: none;
+}

@@ -1,0 +1,8 @@
+sass/
+.DS_Store
+node_modules/
+.vscode/
+*.log
+*.tmp
+*.swp
+*~
